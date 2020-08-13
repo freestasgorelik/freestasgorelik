@@ -1,0 +1,53 @@
+site: Ultra
+url: "localhost:4000" #"www.freestasgorelik.info" # the base hostname & protocol for your site, e.g. http://example.com
+title: Free Stas Gorelik
+description: A website to inform the public about the unlawful detention of Stas Gorelik
+email: dszakonyi@gwu.edu
+#twitter:
+#  username: yourusername
+#  card: summary
+
+permalink: pretty
+
+paginate:            1000
+paginate_path:       "/page:num/"
+baseurl:             ""
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-twitter-plugin
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
