@@ -2,9 +2,11 @@
 title: Free Stas Gorelik 
 description: A resource to support the release of Stas Gorelik 
 ---
-# Free Stas Gorelik
 
+# Free Stas Gorelik
+ <p align="center"> 
 ![](stas.png){: style="height:224.25px;width:150px"}
+</p>
 
 In the early hours of Wednesday, August 12th, scholarly researcher Stas Gorelik was wrongfully arrested and jailed in Belarus. KGB agents entered his parents’ home and conducted a thorough search. They did not find or remove anything, but arrested Stas and took him to jail.
 
