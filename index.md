@@ -5,6 +5,6 @@ description: Website for those who support the release of Stas Gorelik
 
 # Free Stas Gorelik 
 
-### Our Mission
+### Statement
 
 
