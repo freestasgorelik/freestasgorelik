@@ -42,8 +42,8 @@ The arrest and detention of academic researchers is of great concern to not only
 
 
 
-Political Science Department
-George Washington University
-Washington, D.C.
+Political Science Department <br>
+George Washington University <br>
+Washington, D.C. <br>
 
 pscgrad@gwu.edu
