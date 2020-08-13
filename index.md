@@ -28,7 +28,7 @@ The arrest and detention of academic researchers is of great concern to not only
 
 # Statements in Support
 
-- Joint Statements from the [Association for the Study of Nationalities](https://nationalities.org/news-archive/asn-statement-on-detention-of-stas-gorelik) and the [Association for Slavic, East European, and Eurasian Studies](https://www.aseees.org/advocacy/statement-concerning-detention-stas-gorelik)
+- Joint statements from the [Association for the Study of Nationalities](https://nationalities.org/news-archive/asn-statement-on-detention-of-stas-gorelik) and the [Association for Slavic, East European, and Eurasian Studies](https://www.aseees.org/advocacy/statement-concerning-detention-stas-gorelik)
 
 - [British Association for Slavonic and East European Studies](https://basees.org/news/2020/8/13/basees-statement-on-recent-developments-in-belarus)
 
@@ -42,9 +42,11 @@ The arrest and detention of academic researchers is of great concern to not only
 
 # Media Coverage of Stas's Detention
 
-- [Forum Daily - August 13, 2020](https://www.forumdaily.com/en/protesty-v-belarusi-7-tysyach-zaderzhannyx-zhenskie-zhivye-cepi-podderzhka-ot-diaspory-ssha/)
+- [BBC Sounds - August 13](https://www.bbc.co.uk/sounds/play/m000lmyt): Interview with Marisa Durham at 2:38:30
 
-- [Academe Blog - August 13, 2020](https://academeblog.org/2020/08/13/against-the-detention-of-academic-researcher-stas-gorelik/)
+- [Forum Daily - August 13](https://www.forumdaily.com/en/protesty-v-belarusi-7-tysyach-zaderzhannyx-zhenskie-zhivye-cepi-podderzhka-ot-diaspory-ssha/)
+
+- [Academe Blog - August 13](https://academeblog.org/2020/08/13/against-the-detention-of-academic-researcher-stas-gorelik/)
 
 - [Stas’s Academic Work](https://politicalscience.columbian.gwu.edu/stas-gorelik)
 
