@@ -5,10 +5,12 @@ description: A resource to support the release of Stas Gorelik
 
 # Free Stas Gorelik
 
-<img src="stas.jpg" width="75px" height="100px">
+<div style="height: 50px">
+     <img src="stas.jpg" alt=" " style="width: 100%;max-height: 100%" />
+</div>
 
 In the early hours of Wednesday, August 12th, scholarly researcher Stas Gorelik was arrested at his residence by Belarusian authorities. According to his parents and girlfriend, officers of one of Belarus’ state security apparatuses broke down the door to his home with a warrant referencing Article 239 on “Mass Unrest.”
-
+	
 Stas Gorelik is a PhD student at George Washington University. His research is not on Belarus, but rather on other countries. He is a Belarusian citizen who had to return home to Minsk in order to renew his U.S. visa. Unfortunately, U.S. policy changes related to the COVID-19 pandemic prevented him from renewing his visa and returning to Washington to resume his doctoral studies. 
 
 The arrest and detention of academic researchers is of great concern to not only friends and family but to the larger academic community. We strongly urge a reconsideration of the circumstances surrounding his arrest, and appeal to the authorities for his immediate and unconditional release.
