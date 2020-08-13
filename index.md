@@ -3,7 +3,7 @@ title: Free Stas Gorelik
 description: A resource to support the release of Stas Gorelik 
 ---
 
-# Free Stas Gorelik
+# Free Stas Gorelik {: style="text-align: center;"}
 
  <p align="center"> 
 ![](stas.png){: style="height:300px;width:200px"}
