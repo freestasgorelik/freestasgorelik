@@ -22,4 +22,4 @@ description: A resource to support the release of Stas Gorelik
       </div>
     </div>
   </div>
-  </section
+</section>
