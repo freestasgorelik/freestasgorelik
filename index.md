@@ -42,7 +42,7 @@ The arrest and detention of academic researchers is of great concern to not only
 
 # Media Coverage of Stas's Detention
 
-- [BBC Sounds - August 13](https://www.bbc.co.uk/sounds/play/m000lmyt): Interview with Marisa Durham at 2:38:30
+- [BBC Sounds - August 13](https://www.bbc.co.uk/sounds/play/m000lmyt): Interview with Marisa Durham, Stas's girlfriend, about the arrest; scroll to 2:38:30.
 
 - [Forum Daily - August 13](https://www.forumdaily.com/en/protesty-v-belarusi-7-tysyach-zaderzhannyx-zhenskie-zhivye-cepi-podderzhka-ot-diaspory-ssha/)
 
