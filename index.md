@@ -2,8 +2,17 @@
 title: Free Stas Gorelik 
 description: A resource to support the release of Stas Gorelik 
 ---
+<style>
+.center {
+   text-align: center;
+}
+</style>
+<div class="center">
+
 
 # Free Stas Gorelik
+
+</div>
 
  <p align="center"> 
 ![](stas.png){: style="height:300px;width:200px"}
