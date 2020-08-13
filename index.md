@@ -2,11 +2,11 @@
 title: Free Stas Gorelik 
 description: A resource to support the release of Stas Gorelik 
 ---
-
+ <p align="center"> 
 # Free Stas Gorelik
 
 ![](stas.png){: style="height:224.25px;width:150px"}
-
+</p>
 In the early hours of Wednesday, August 12th, scholarly researcher Stas Gorelik was wrongfully arrested and jailed in Belarus. KGB agents entered his parents’ home and conducted a thorough search. They did not find or remove anything, but arrested Stas and took him to jail.
 
 Stas Gorelik is a PhD student at George Washington University (GWU). His research is not on Belarus, but rather on other countries. He is a Belarusian citizen who had to return home to Minsk in order to renew his U.S. visa. Unfortunately, U.S. policy changes related to the COVID-19 pandemic prevented him from renewing his visa and returning to Washington to resume his doctoral studies. 
@@ -25,7 +25,7 @@ The arrest and detention of academic researchers is of great concern to not only
 
 - Tweet your support with the hashtag [#FreeStas](https://twitter.com/hashtag/FreeStas?src=hash)
 
-- Contact members of the media to get the word out about Stas's Detention
+- Contact members of the media to get the word out about Stas's detention
 
 # Media Coverage of Stas's Detention
 
@@ -38,6 +38,11 @@ The arrest and detention of academic researchers is of great concern to not only
 # More Information on the Situation in Belarus
 
 - [BBC - Belarus Election](https://www.bbc.com/news/world-europe-53760453)
+
+<br>
+<br>
+<br>
+<br>
 
 
 
