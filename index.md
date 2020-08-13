@@ -5,7 +5,7 @@ description: A resource to support the release of Stas Gorelik
 
 # Free Stas Gorelik 
 
-### Details
+### Unlawful Detention
 
 
 {% twitter https://twitter.com/search?q=%23freestas maxwidth=500 limit=5 %}
