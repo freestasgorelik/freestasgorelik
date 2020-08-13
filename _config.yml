@@ -3,6 +3,7 @@ url: "localhost:4000" #"www.freestasgorelik.info" # the base hostname & protocol
 title: Free Stas Gorelik
 description: A website to inform the public about the unlawful detention of Stas Gorelik
 email: dszakonyi@gwu.edu
+image: stas.jpg
 #twitter:
 #  username: yourusername
 #  card: summary
@@ -54,3 +55,6 @@ defaults:
 
 kramdown:
   parse_block_html: true
+
+twitter:
+  username: dszakonyi
