@@ -20,7 +20,7 @@ description: A resource to support the release of Stas Gorelik
 
 In the early hours of Wednesday, August 12th, scholarly researcher Stas Gorelik was wrongfully arrested and jailed in Belarus. State security agents entered his parents’ home and conducted a thorough search. They did not find or remove anything, but arrested Stas and took him to jail.
 
-Stas Gorelik is a PhD student at George Washington University (GWU). His research is not on Belarus, but rather on other countries. He is a Belarusian citizen who had to return home to Minsk in order to renew his U.S. visa. Unfortunately, U.S. policy changes related to the COVID-19 pandemic prevented him from renewing his visa and returning to Washington to resume his doctoral studies. 
+Stas is a PhD student at George Washington University (GWU). His research is not on Belarus, but rather on other countries. He is a Belarusian citizen who had to return home to Minsk in order to renew his U.S. visa. Unfortunately, U.S. policy changes related to the COVID-19 pandemic prevented him from renewing his visa and returning to Washington to resume his doctoral studies. 
 
 The arrest and detention of academic researchers is of great concern to not only friends and family but to the larger academic community. We strongly urge a reconsideration of the circumstances surrounding his arrest, and appeal to the authorities for his immediate and unconditional release.
 
