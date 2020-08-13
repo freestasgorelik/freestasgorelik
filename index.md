@@ -3,10 +3,18 @@ title: Free Stas Gorelik
 description: A resource to support the release of Stas Gorelik 
 ---
 
+<style>
+.center {
+   text-align: center;
+}
+</style>
+
+<div class="center">
+
 # Free Stas Gorelik
 
-<div style="height: 50px">
-     <img src="stas.jpg" alt=" " style="width: 100%;max-height: 100%" />
+![](stas.png){: style="height:224.25px;width:150px"}
+
 </div>
 
 In the early hours of Wednesday, August 12th, scholarly researcher Stas Gorelik was arrested at his residence by Belarusian authorities. According to his parents and girlfriend, officers of one of Belarus’ state security apparatuses broke down the door to his home with a warrant referencing Article 239 on “Mass Unrest.”
