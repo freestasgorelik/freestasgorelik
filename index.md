@@ -34,11 +34,15 @@ The arrest and detention of academic researchers is of great concern to not only
 
 - [George Washington University](https://gwtoday.gwu.edu/statement-detention-gw-doctoral-student-stas-gorelik)
 
+- [American Political Science Association](https://www.apsanet.org/Portals/54/Advocacy/Statement%20on%20Detention%20of%20Stas%20Gorelik%20August%202020.pdf?ver=2020-08-14-091935-877)
+
 # Ways to Help Stas
 
 - Tweet your support with the hashtag [#FreeStas](https://twitter.com/hashtag/FreeStas?src=hash)
 
 - Contact members of the media to get the word out about Stas's detention
+
+- Sign an [international petition](https://docs.google.com/forms/d/e/1FAIpQLSctN7fes50oZ70KoelQAYlRde4hn6OwC_plkjgWm1yX3CNwPw/viewform) calling for an end to police violence and for free elections in Belarus
 
 # Media Coverage of Stas's Detention
 
@@ -57,6 +61,8 @@ The arrest and detention of academic researchers is of great concern to not only
 # More Information on the Situation in Belarus
 
 - [BBC - Belarus Election](https://www.bbc.com/news/world-europe-53760453)
+
+- [New York Times - What's Happening in Belarus?](https://www.nytimes.com/2020/08/13/world/europe/belarus-protests-guide.html)
 
 <br>
 <br>
