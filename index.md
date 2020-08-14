@@ -46,7 +46,7 @@ The arrest and detention of academic researchers is of great concern to not only
 
 # Media Coverage of Stas's Detention
 
-- [ABC News - August 13](Full_Case_Electronic_Docket_Is_Available)
+- [ABC News - August 13](https://www.youtube.com/watch?v=ad80vigvSTA&feature=youtu.be)
 
 - [BBC Sounds - August 13](https://www.bbc.co.uk/sounds/play/m000lmyt): Interview with Marisa Durham, Stas's girlfriend, about the arrest; scroll to 2:38:30.
 
