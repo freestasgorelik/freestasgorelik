@@ -48,7 +48,7 @@ The arrest and detention of academic researchers is of great concern to not only
 
 - [Academe Blog - August 13](https://academeblog.org/2020/08/13/against-the-detention-of-academic-researcher-stas-gorelik/)
 
-- [New Belarus / Center for New Ideas](https://newbelarus.vision/gorelik-detained)
+- [New Belarus / Center for New Ideas - August 12](https://newbelarus.vision/gorelik-detained)
 
 - [Stas’s Academic Work](https://politicalscience.columbian.gwu.edu/stas-gorelik)
 
