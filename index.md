@@ -26,6 +26,8 @@ Stas is a PhD student at George Washington University (GWU). His research is not
 
 The arrest and detention of academic researchers is of great concern to not only friends and family but to the larger academic community. We strongly urge a reconsideration of the circumstances surrounding his arrest, and appeal to the authorities for his immediate and unconditional release.
 
+AUGUST 14 UPDATE (8:40pm EST): We're getting credible social media reports that Stas has been released. Still awaiting direct confirmation, but this is tentatively fantastic news. We'll update with more information, including about possible ways to help, as soon as we can.
+
 # Statements in Support
 
 - Joint statements from the [Association for the Study of Nationalities](https://nationalities.org/news-archive/asn-statement-on-detention-of-stas-gorelik) and the [Association for Slavic, East European, and Eurasian Studies](https://www.aseees.org/advocacy/statement-concerning-detention-stas-gorelik)
